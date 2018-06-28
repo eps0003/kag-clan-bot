@@ -1,0 +1,11 @@
+{
+  "name": "joop-bot",
+  "author": "epsilon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.3.2",
+    "mysql": "^2.15.0"
+  }
+}
