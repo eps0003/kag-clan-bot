@@ -1,0 +1,33 @@
+{
+  "token": "bot-token",
+  "prefix": "!",
+  "guild": "guild-id",
+  "role": {
+    "admin": "admin-role-id"
+  },
+  "channel": {
+    "general": "general-channel-id",
+    "commands": "commands-channel-id"
+  },
+  "leaderboardMessage": {
+    "channel": "leaderboard-channel-id",
+    "message": "leaderboard-message-id"
+  },
+  "matchesMessage": {
+    "channel": "matches-channel-id",
+    "message": "matches-message-id"
+  },
+  "sql": {
+    "host": "sql-address",
+    "user": "sql-username",
+    "password": "sql-password",
+    "database": "sql-database"
+  },
+  "vars": {
+    "hoistRoles": true,
+    "overdueMins": 180,
+    "notifyMins": 30,
+    "clashMins": 90,
+    "inactiveMonths": 2
+  }
+}
